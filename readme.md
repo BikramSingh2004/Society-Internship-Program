@@ -1,14 +1,4 @@
-Got it ✅
-Here is a **clean, short, professional, and separate**:
-
-✅ **README.md**
-✅ **CONTRIBUTING.md**
-
-Both include **only current features**, no future roadmap, no backend plans — just what the project already has NOW.
-
----
-
-# ✅ **README.md (Short + Professional + Complete)**
+# ✅ **README.md 
 
 ````md
 # 🏫 School Assessment & Comparison Platform
@@ -78,7 +68,13 @@ src/
 ## 👨‍💻 Contributors
 
 * **Bikram Kumar Singh**
-* **Your Friend's Name**
+* **Anish Ranjan**
+* **Arpit Rai**
+* **Anubhav Raj**
+
+* **Vaibhav Jaiswal**
+
+
 
 ---
 
